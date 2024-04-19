@@ -2,6 +2,7 @@ body{
    background-color: #FB5A00;
    color:orange;
    display: flex;
-   
+   justify-content: space-around;
+
    
    }
